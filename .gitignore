@@ -2,3 +2,7 @@
 /datasets
 /runs
 *.pt
+/pretrained_inference_results
+/comparison_results
+/diagnosis
+/fair_comparison
